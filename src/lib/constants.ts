@@ -28,7 +28,7 @@ export const SOCIAL_LINKS = [
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/yu-hsiang-lin",
+    href: "https://www.linkedin.com/in/lin-yu-hsiang-0427/",
     icon: "linkedin" as const,
   },
   {

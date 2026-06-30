@@ -215,7 +215,7 @@ export const PROJECTS = [
     company: "Foxconn · Senior Engineer",
     period: "Consumer product · 2016–2020",
     metric: "Power Management / Thermal",
-    images: ["/images/smart_speaker.png", "/images/cccair_stick.png", "/images/5G_mifi.jpg"],
+    images: ["/images/smart_speaker.png", "/images/cccair_stick.png", "/images/cccair_2.png" ,"/images/5G_mifi.jpg"],
     description:
       "Linux kernel driver integration and Android / Netflix certificate",
     contributions: [
